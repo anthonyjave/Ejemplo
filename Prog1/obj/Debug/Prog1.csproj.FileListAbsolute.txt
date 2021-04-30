@@ -1,0 +1,7 @@
+C:\Users\USER\Google Drive\UPN\2021\CICLO 6 - 2021_1\MODEL. Y ANÁLISIS DE SOFTWARE\VISUAL STUDIO\Mis Programas\Prog1\bin\Debug\Prog1.exe.config
+C:\Users\USER\Google Drive\UPN\2021\CICLO 6 - 2021_1\MODEL. Y ANÁLISIS DE SOFTWARE\VISUAL STUDIO\Mis Programas\Prog1\bin\Debug\Prog1.exe
+C:\Users\USER\Google Drive\UPN\2021\CICLO 6 - 2021_1\MODEL. Y ANÁLISIS DE SOFTWARE\VISUAL STUDIO\Mis Programas\Prog1\bin\Debug\Prog1.pdb
+C:\Users\USER\Google Drive\UPN\2021\CICLO 6 - 2021_1\MODEL. Y ANÁLISIS DE SOFTWARE\VISUAL STUDIO\Mis Programas\Prog1\obj\Debug\Prog1.csprojAssemblyReference.cache
+C:\Users\USER\Google Drive\UPN\2021\CICLO 6 - 2021_1\MODEL. Y ANÁLISIS DE SOFTWARE\VISUAL STUDIO\Mis Programas\Prog1\obj\Debug\Prog1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Google Drive\UPN\2021\CICLO 6 - 2021_1\MODEL. Y ANÁLISIS DE SOFTWARE\VISUAL STUDIO\Mis Programas\Prog1\obj\Debug\Prog1.exe
+C:\Users\USER\Google Drive\UPN\2021\CICLO 6 - 2021_1\MODEL. Y ANÁLISIS DE SOFTWARE\VISUAL STUDIO\Mis Programas\Prog1\obj\Debug\Prog1.pdb
